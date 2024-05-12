@@ -19,13 +19,12 @@ p {
     color: #800080; /* Purple */
     font-family: 'Russo One', sans-serif;
     font-size: 1rem;
-    text-transform: uppercase;
+   
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 li {
     color: #311531; /* Purple */
     font-family: 'Russo One', sans-serif;
-    font-size: 1rem;
-    text-transform: uppercase;
+    font-size: 1rem;    
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
