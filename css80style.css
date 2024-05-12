@@ -3,6 +3,7 @@
 /* Set background color */
 body {
     background-color: #ff66cc; /* Pink */
+    background-image: url("img1.jpg");
 }
 
 /* Add some text styling */
