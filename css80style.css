@@ -34,9 +34,9 @@ li {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 a {
-        color: hsl(143, 71%, 44%); /* Purple */
-        font-family: 'Russo One', sans-serif;
-        font-size: 2rem;    
-        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-        text-align: center;
+    color: hsl(143, 71%, 44%); /* Purple */
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;    
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
 }
