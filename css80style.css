@@ -1,8 +1,8 @@
 /* '80s Style CSS */
 
-/* Set background color */
+/* Set background colors */
 body {
-    background-color: #f8f8f800; /* Pink */
+    background-color: #f8f8f850; /* Pink */
     background-image: "img1.jpg";
 }
 
@@ -22,7 +22,7 @@ p {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 li {
-    color: #00d9ff; /* Purple */
+    color: #015463; /* Purple */
     font-family: 'Russo One', sans-serif;
     font-size: 1rem;    
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
