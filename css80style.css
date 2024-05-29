@@ -14,11 +14,17 @@ h1 {
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     text-align: center;
 }
+h2 {
+    color: #5108c5; /* Purple */
+    font-family: 'Russo One', sans-serif;
+    font-size: 2rem;    
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    text-align: center;
+}
 p {
     color: #800080; /* Purple */
     font-family: 'Russo One', sans-serif;
-    font-size: 1rem;
-   
+    font-size: 1rem;   
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 }
 li {
@@ -26,4 +32,11 @@ li {
     font-family: 'Russo One', sans-serif;
     font-size: 1rem;    
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+a {
+        color: hsl(143, 71%, 44%); /* Purple */
+        font-family: 'Russo One', sans-serif;
+        font-size: 2rem;    
+        text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+        text-align: center;
 }
